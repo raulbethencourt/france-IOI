@@ -1,2 +1,4 @@
-for Loop in range(13):
-    print("9 * 8 = 72")
+#!/usr/bin/python3
+inp = input('Europe floor?')
+usf = int(inp) + 1
+print('US floor ', usf)
